@@ -2,7 +2,7 @@
 //  DestinationDetailView.swift
 //  Destinations
 //
-//  Created by Alumno on 23/04/25.
+//  Created by Aleksandra on 23/04/25.
 //
 
 import SwiftUI
